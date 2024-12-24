@@ -7,7 +7,7 @@ function App() {
   ];
   return (
     <div className="w-[100%] h-[100vh] bg-purple-900 flex justify-center items-center">
-      <div className="w-[30%] h-[50%]   flex  flex-col justify-center items-center p-5 gap-5">
+      <div className="lg:w-[30%] lg:h-[50%]   flex  flex-col justify-center items-center lg:p-5 gap-5">
         <h1 className="text-3xl text-white font-bold mb-10">
           What does Css Stand For?
         </h1>
